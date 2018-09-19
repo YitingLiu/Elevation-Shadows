@@ -1,13 +1,13 @@
 {
-  "name": "my-first-plugin",
+  "name": "ElevationShadows",
   "version": "0.1.0",
   "engines": {
     "sketch": ">=3.0"
   },
   "skpm": {
-    "name": "my-first-plugin",
+    "name": "ElevationShadows",
     "manifest": "src/manifest.json",
-    "main": "my-first-plugin.sketchplugin",
+    "main": "Elevation-Shadows.sketchplugin",
     "assets": [
       "assets/**/*"
     ]
