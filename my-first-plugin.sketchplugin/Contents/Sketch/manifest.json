@@ -1,0 +1,28 @@
+{
+  "name": "Elevation Shadows",
+  "description": "A Plugin to apply consistent Elevation Shadows",
+  "author": "Yiting Liu",
+  "authorEmail": "yitliu@outlook.com",
+  "homepage": "https://github.com/example/sketchplugins",
+  "version": "1.0",
+  "identifier": "com.example.sketch.shape-plugins",
+  "compatibleVersion": 51.3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Apply",
+      "identifier": "Apply-Shadows-identifier",
+      "script": "my-command.js",
+      "shortcut": "ctrl shift a"
+    }
+  ],
+  "menu": {
+    "title": "Elevation Shadows",
+    "items": [
+      "Apply-Shadows-identifier"
+    ]
+  },
+  "disableCocoaScriptPreprocessor": true,
+  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml"
+}
