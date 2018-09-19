@@ -1,6 +1,6 @@
 {
   "name": "ElevationShadows",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
     "sketch": ">=3.0"
   },
@@ -23,7 +23,7 @@
   },
   "author": "Yiting Liu <yl3799@nyu.edu>",
   "repository": {
-  "type" : "git",
-  "url" : "https://github.com/YitingLiu/Elevation-Shadows"
-}
+    "type": "git",
+    "url": "https://github.com/YitingLiu/Elevation-Shadows"
+  }
 }
