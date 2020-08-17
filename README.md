@@ -1,5 +1,6 @@
 # Elevation Shadows
 
-A Plugin to apply consistent Elevation Shadows
+Create Elevation Shadows Easily in Sketch
+
 
 ![](demo.gif)
